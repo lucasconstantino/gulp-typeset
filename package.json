@@ -1,0 +1,27 @@
+{
+  "name": "gulp-typeset",
+  "version": "0.0.1",
+  "description": "Preprocess HTML for better typography",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasconstantino/gulp-typeset.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "typeset",
+    "preprocess",
+    "html",
+    "typography"
+  ],
+  "author": "Lucas Constantino Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasconstantino/gulp-typeset/issues"
+  },
+  "homepage": "https://github.com/lucasconstantino/gulp-typeset#readme"
+}
