@@ -4,7 +4,7 @@
   "description": "Preprocess HTML for better typography",
   "main": "index.js",
   "scripts": {
-    "test": "gulp test"
+    "test": "./node_modules/.bin/mocha tests/*"
   },
   "repository": {
     "type": "git",
@@ -23,5 +23,15 @@
   "bugs": {
     "url": "https://github.com/lucasconstantino/gulp-typeset/issues"
   },
-  "homepage": "https://github.com/lucasconstantino/gulp-typeset#readme"
+  "homepage": "https://github.com/lucasconstantino/gulp-typeset#readme",
+  "dependencies": {
+    "gulp": "^3.9.0",
+    "through2": "^2.0.0",
+    "typeset": "^0.1.4"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp-util": "^3.0.6",
+    "mocha": "^2.2.5"
+  }
 }
