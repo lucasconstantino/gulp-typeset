@@ -28,7 +28,7 @@ gulp.task('default', function () {
 
 ### Options
 
-Refer to David Merfield's [typeset](https://github.com/davidmerfield/typeset) module for further reference on available options.
+Refer to David Merfield's [Typeset module options](https://github.com/davidmerfield/typeset#options) for further reference on available configuration.
 
 
 ## License
