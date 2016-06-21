@@ -1,6 +1,6 @@
 {
   "name": "gulp-typeset",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Preprocess HTML for better typography",
   "main": "index.js",
   "scripts": {
