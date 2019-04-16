@@ -1,4 +1,4 @@
-# gulp-typeset [![Build Status](https://travis-ci.org/lucasconstantino/gulp-typeset.svg?branch=master)](https://travis-ci.org/lucasconstantino/gulp-typeset)
+# gulp-typeset [![Build Status](https://travis-ci.org/lucasconstantino/gulp-typeset.svg?branch=master)](https://travis-ci.org/lucasconstantino/gulp-typeset) [![Greenkeeper badge](https://badges.greenkeeper.io/lucasconstantino/gulp-typeset.svg)](https://greenkeeper.io/)
 
 > Preprocess HTML for better typography with [typeset](https://github.com/davidmerfield/typeset)
 
