@@ -25,13 +25,13 @@
   },
   "homepage": "https://github.com/lucasconstantino/gulp-typeset#readme",
   "dependencies": {
-    "gulp": "^3.9.0",
-    "through2": "^2.0.0",
+    "gulp": "^4.0.0",
+    "through2": "^3.0.1",
     "typeset": "^0.2.2"
   },
   "devDependencies": {
-    "chai": "^3.2.0",
+    "chai": "^4.2.0",
     "gulp-util": "^3.0.6",
-    "mocha": "^2.2.5"
+    "mocha": "^6.1.3"
   }
 }
